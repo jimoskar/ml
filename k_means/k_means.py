@@ -22,20 +22,30 @@ class KMeans:
             X (array<m,n>): a matrix of floats with
                 m rows (#samples) and n columns (#features)
         """
-        # TODO: Implement
+
         assert(X.shape[1] == self.dim)
+        # Perform minmax transformation:
+        X_mat = X.to_numpy()
+        self.min_vals = X_mat.min(axis = 0)
+        self.max_vals = X_mat.max(axis = 0)
+        X_normed = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
+
+        # Random initialization of clusters
+        self.centroids = X_normed[np.random.choice(X_normed.shape[0], size = self.num_clust, replace = False)]
+        
         assignments = np.zeros(X.shape[0], dtype = int)
         old = assignments.copy()
         while True:
-            for i in range(assignments.shape[0]):
-                assignments[i] = np.argmin(cross_euclidean_distance((X.iloc[i]).to_numpy().reshape((1,X.shape[1])), self.centroids))
+            dist_mat = cross_euclidean_distance(X_normed, self.centroids)
+            for i in range(len(assignments)):
+                assignments[i] = np.argmin(dist_mat[i, :])
             if np.array_equal(assignments, old):
                     break
             else:
                 old = assignments.copy()
             
             for j in range(self.centroids.shape[0]):
-                self.centroids[j] = np.average(X.iloc[assignments == j])
+                self.centroids[j, :] = np.mean(X_normed[assignments == j], axis = 0)
             print(self.centroids)
 
     
@@ -56,10 +66,9 @@ class KMeans:
             could be: array([2, 0, 0, 1, 2, 1, 1, 0, 2, 2])
         """
         n = X.shape[0]
-        result = np.zeros(n, dtype = int)
-        for i in range(n):
-            result[i] = np.argmin(cross_euclidean_distance((X.iloc[i]).to_numpy().reshape((1,X.shape[1])), self.centroids))
-        
+        X_mat = X.to_numpy()
+        X_normed = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
+        result = np.argmin(cross_euclidean_distance(X_normed, self.centroids), axis = 1) 
         return result
     
     def get_centroids(self):
@@ -77,9 +86,7 @@ class KMeans:
             [xm_1, xm_2, ..., xm_n]
         ])
         """
-        # TODO: Implement 
-        
-        return self.centroids
+        return (self.centroids) * (self.max_vals - self.min_vals) + self.min_vals
     
     
     
