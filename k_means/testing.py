@@ -1,3 +1,4 @@
+from k_means import cross_euclidean_distance
 import pandas as pd
 import numpy as np
 
@@ -10,3 +11,6 @@ print(b)
 print(np.average(df.iloc[b], axis = 0))
 a = np.random.rand(1,3)
 print(a)
+a = cross_euclidean_distance(df.to_numpy(), np.array([[1,2], [1,3]]))
+print(np.argmin(a, axis = 1))
+print(df.iloc[np.array([True, False, True])].to_numpy())

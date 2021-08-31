@@ -6,13 +6,14 @@ import pandas as pd
 
 class KMeans:
     
-    def __init__(self, dim = 2, num_clust = 2):
+    def __init__(self, dim = 2, num_clust = 2, normalize = False):
         # NOTE: Feel free add any hyperparameters 
         # (with defaults) as you see fit
         
         self.dim = dim
         self.num_clust = num_clust
-        self.centroids = np.random.rand(num_clust, dim)
+        self.normalize = normalize
+
         
     def fit(self, X):
         """
@@ -26,17 +27,18 @@ class KMeans:
         assert(X.shape[1] == self.dim)
         # Perform minmax transformation:
         X_mat = X.to_numpy()
-        self.min_vals = X_mat.min(axis = 0)
-        self.max_vals = X_mat.max(axis = 0)
-        X_normed = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
+        if self.normalize:
+            self.min_vals = X_mat.min(axis = 0)
+            self.max_vals = X_mat.max(axis = 0)
+            X_mat = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
 
         # Random initialization of clusters
-        self.centroids = X_normed[np.random.choice(X_normed.shape[0], size = self.num_clust, replace = False)]
+        self.centroids = X_mat[np.random.choice(X_mat.shape[0], size = self.num_clust, replace = False)]
         
         assignments = np.zeros(X.shape[0], dtype = int)
         old = assignments.copy()
         while True:
-            dist_mat = cross_euclidean_distance(X_normed, self.centroids)
+            dist_mat = cross_euclidean_distance(X_mat, self.centroids)
             for i in range(len(assignments)):
                 assignments[i] = np.argmin(dist_mat[i, :])
             if np.array_equal(assignments, old):
@@ -45,8 +47,8 @@ class KMeans:
                 old = assignments.copy()
             
             for j in range(self.centroids.shape[0]):
-                self.centroids[j, :] = np.mean(X_normed[assignments == j], axis = 0)
-            print(self.centroids)
+                self.centroids[j, :] = np.mean(X_mat[assignments == j], axis = 0)
+            
 
     
     def predict(self, X):
@@ -67,8 +69,9 @@ class KMeans:
         """
         n = X.shape[0]
         X_mat = X.to_numpy()
-        X_normed = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
-        result = np.argmin(cross_euclidean_distance(X_normed, self.centroids), axis = 1) 
+        if self.normalize:
+            X_mat = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
+        result = np.argmin(cross_euclidean_distance(X_mat, self.centroids), axis = 1) 
         return result
     
     def get_centroids(self):
@@ -86,7 +89,10 @@ class KMeans:
             [xm_1, xm_2, ..., xm_n]
         ])
         """
-        return (self.centroids) * (self.max_vals - self.min_vals) + self.min_vals
+        if self.normalize:
+            return (self.centroids) * (self.max_vals - self.min_vals) + self.min_vals
+        else:
+            return self.centroids
     
     
     
