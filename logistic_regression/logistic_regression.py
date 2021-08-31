@@ -6,10 +6,13 @@ import pandas as pd
 
 class LogisticRegression:
     
-    def __init__():
+    def __init__(self, dim = 2, step_size = 0.01, epochs = 1000):
         # NOTE: Feel free add any hyperparameters 
         # (with defaults) as you see fit
-        pass
+        self.dim = dim
+        self.weights = np.random.rand(dim + 1)
+        self.step_size = step_size
+        self.epochs = epochs
         
     def fit(self, X, y):
         """
@@ -21,8 +24,19 @@ class LogisticRegression:
             y (array<m>): a vector of floats containing 
                 m binary 0.0/1.0 labels
         """
-        # TODO: Implement
-        raise NotImplemented()
+        ones = np.ones((X.shape[0], 1))
+        X_mat = np.hstack((ones, X)) # Add in bias term/intercept.
+        '''
+        self.min_vals = X_mat.min(axis = 0)
+        self.max_vals = X_mat.max(axis = 0)
+        X_normed = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
+        '''
+        weight_grad = float('inf')
+        for _ in range(self.epochs):
+            for i in range(X_mat.shape[0]):
+                weight_grad = (y[i] - sigmoid(self.weights.T @ X_mat[i, :])) * X_mat[i, :]
+                self.weights += self.step_size * weight_grad
+
     
     def predict(self, X):
         """
@@ -38,8 +52,10 @@ class LogisticRegression:
             A length m array of floats in the range [0, 1]
             with probability-like predictions
         """
-        # TODO: Implement
-        raise NotImplemented()
+
+        ones = np.ones((X.shape[0], 1))
+        X_mat = np.hstack((ones, X)) # Add in bias term/intercept.
+        return sigmoid(X_mat @ self.weights)
         
 
         
