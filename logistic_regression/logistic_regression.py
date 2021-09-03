@@ -25,6 +25,8 @@ class LogisticRegression:
                 m binary 0.0/1.0 labels
         """
         ones = np.ones((X.shape[0], 1))
+        if (X.ndim == 1):
+            X = X.reshape((X.shape[0], 1))
         X_mat = np.hstack((ones, X)) # Add in bias term/intercept.
         '''
         self.min_vals = X_mat.min(axis = 0)
@@ -54,6 +56,8 @@ class LogisticRegression:
         """
 
         ones = np.ones((X.shape[0], 1))
+        if (X.ndim == 1):
+            X = X.reshape((X.shape[0], 1))
         X_mat = np.hstack((ones, X)) # Add in bias term/intercept.
         return sigmoid(X_mat @ self.weights)
         
