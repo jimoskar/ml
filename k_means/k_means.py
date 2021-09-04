@@ -6,13 +6,16 @@ import pandas as pd
 
 class KMeans:
     
-    def __init__(self, dim = 2, num_clust = 2, normalize = False):
-        # NOTE: Feel free add any hyperparameters 
-        # (with defaults) as you see fit
-        
-        self.dim = dim
+    def __init__(self, num_clust = 2, n_runs = 1):
+        """
+        Initializes the KMeans object
+
+        Args:
+            num_clust (int): The number of clusters
+            n_runs (int): Number of runs of the K-means algorithm
+        """
         self.num_clust = num_clust
-        self.normalize = normalize
+        self.n_runs = n_runs
 
         
     def fit(self, X):
@@ -23,31 +26,32 @@ class KMeans:
             X (array<m,n>): a matrix of floats with
                 m rows (#samples) and n columns (#features)
         """
-
-        assert(X.shape[1] == self.dim)
-        # Perform minmax transformation:
-        X_mat = X.to_numpy()
-        if self.normalize:
-            self.min_vals = X_mat.min(axis = 0)
-            self.max_vals = X_mat.max(axis = 0)
-            X_mat = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
-
-        # Random initialization of clusters
-        self.centroids = X_mat[np.random.choice(X_mat.shape[0], size = self.num_clust, replace = False)]
-        
-        assignments = np.zeros(X.shape[0], dtype = int)
-        old = assignments.copy()
-        while True:
-            dist_mat = cross_euclidean_distance(X_mat, self.centroids)
-            for i in range(len(assignments)):
-                assignments[i] = np.argmin(dist_mat[i, :])
-            if np.array_equal(assignments, old):
-                    break
-            else:
-                old = assignments.copy()
+        s_score = float('-inf') # current highest silhoutte score.
+        for _ in range(self.n_runs):
+            # Random initialization of clusters
+            cur_centroids = X[np.random.choice(X.shape[0], size = self.num_clust, replace = False)]
             
-            for j in range(self.centroids.shape[0]):
-                self.centroids[j, :] = np.mean(X_mat[assignments == j], axis = 0)
+            assignments = np.zeros(X.shape[0], dtype = int)
+            old = assignments.copy()
+            while True:
+                dist_mat = cross_euclidean_distance(X, cur_centroids)
+                for i in range(len(assignments)):
+                    assignments[i] = np.argmin(dist_mat[i, :])
+                if np.array_equal(assignments, old):
+                        break
+                else:
+                    old = assignments.copy()
+                
+                for j in range(cur_centroids.shape[0]):
+                    cur_centroids[j, :] = np.mean(X[assignments == j], axis = 0)
+
+            cur_score =  euclidean_silhouette(X, assignments)
+            if cur_score > s_score:
+                s_score = cur_score
+                self.centroids = cur_centroids
+
+                
+
             
 
     
@@ -67,11 +71,7 @@ class KMeans:
             there are 3 clusters, then a possible assignment
             could be: array([2, 0, 0, 1, 2, 1, 1, 0, 2, 2])
         """
-        n = X.shape[0]
-        X_mat = X.to_numpy()
-        if self.normalize:
-            X_mat = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
-        result = np.argmin(cross_euclidean_distance(X_mat, self.centroids), axis = 1) 
+        result = np.argmin(cross_euclidean_distance(X, self.centroids), axis = 1) 
         return result
     
     def get_centroids(self):
@@ -89,10 +89,8 @@ class KMeans:
             [xm_1, xm_2, ..., xm_n]
         ])
         """
-        if self.normalize:
-            return (self.centroids) * (self.max_vals - self.min_vals) + self.min_vals
-        else:
-            return self.centroids
+       
+        return self.centroids
     
     
     
