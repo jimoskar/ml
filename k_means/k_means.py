@@ -30,9 +30,8 @@ class KMeans:
         for _ in range(self.n_runs):
             # Random initialization of clusters
             cur_centroids = X[np.random.choice(X.shape[0], size = self.num_clust, replace = False)]
-            
             assignments = np.zeros(X.shape[0], dtype = int)
-            old = assignments.copy()
+            old = assignments.copy() # assignments in previous iteration
             while True:
                 dist_mat = cross_euclidean_distance(X, cur_centroids)
                 for i in range(len(assignments)):

@@ -24,15 +24,12 @@ class LogisticRegression:
             y (array<m>): a vector of floats containing 
                 m binary 0.0/1.0 labels
         """
+        # Adding intercept and fixing dimensions.
         ones = np.ones((X.shape[0], 1))
         if (X.ndim == 1):
             X = X.reshape((X.shape[0], 1))
         X_mat = np.hstack((ones, X)) # Add in bias term/intercept.
-        '''
-        self.min_vals = X_mat.min(axis = 0)
-        self.max_vals = X_mat.max(axis = 0)
-        X_normed = (X_mat - self.min_vals)/(self.max_vals - self.min_vals)
-        '''
+    
         weight_grad = float('inf')
         for _ in range(self.epochs):
             for i in range(X_mat.shape[0]):
@@ -54,11 +51,13 @@ class LogisticRegression:
             A length m array of floats in the range [0, 1]
             with probability-like predictions
         """
-
+        
+        # Adding intercept and fixing dimensions.
         ones = np.ones((X.shape[0], 1))
         if (X.ndim == 1):
             X = X.reshape((X.shape[0], 1))
         X_mat = np.hstack((ones, X)) # Add in bias term/intercept.
+
         return sigmoid(X_mat @ self.weights)
         
 
