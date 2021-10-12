@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[List of Moscow Metro stations]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[List of active stations]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Bulvar Rokossovskogo (Sokolnicheskaya line)]]></name>
+            <Point>
+                <coordinates>37.7342,55.8148,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cherkizovskaya]]></name>
+            <Point>
+                <coordinates>37.7448,55.8038,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Preobrazhenskaya Ploshchad]]></name>
+            <Point>
+                <coordinates>37.7151,55.7963,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sokolniki]]></name>
+            <Point>
+                <coordinates>37.6802,55.7888,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krasnoselskaya]]></name>
+            <Point>
+                <coordinates>37.6673,55.7801,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Komsomolskaya (Sokolnicheskaya line)]]></name>
+            <Point>
+                <coordinates>37.6562,55.7753,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krasnye Vorota]]></name>
+            <Point>
+                <coordinates>37.6487,55.769,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chistye Prudy]]></name>
+            <Point>
+                <coordinates>37.6388,55.7657,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lubyanka]]></name>
+            <Point>
+                <coordinates>37.6272,55.7597,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Okhotny Ryad]]></name>
+            <Point>
+                <coordinates>37.6166,55.7577,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Biblioteka Imeni Lenina]]></name>
+            <Point>
+                <coordinates>37.61,55.7512,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kropotkinskaya]]></name>
+            <Point>
+                <coordinates>37.6037,55.7453,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Park Kultury (Sokolnicheskaya line)]]></name>
+            <Point>
+                <coordinates>37.5943,55.7356,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Frunzenskaya]]></name>
+            <Point>
+                <coordinates>37.5786,55.7267,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sportivnaya]]></name>
+            <Point>
+                <coordinates>37.5639,55.7233,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vorobyovy Gory]]></name>
+            <Point>
+                <coordinates>37.5592,55.7103,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Universitet]]></name>
+            <Point>
+                <coordinates>37.5333,55.6926,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prospekt Vernadskogo]]></name>
+            <Point>
+                <coordinates>37.506,55.6771,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yugo-Zapadnaya]]></name>
+            <Point>
+                <coordinates>37.4833,55.6637,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Troparyovo]]></name>
+            <Point>
+                <coordinates>37.4725,55.6459,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rumyantsevo]]></name>
+            <Point>
+                <coordinates>37.4419,55.633,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Salaryevo]]></name>
+            <Point>
+                <coordinates>37.424,55.6227,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Filatov Lug]]></name>
+            <Point>
+                <coordinates>37.407645,55.601367,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prokshino]]></name>
+            <Point>
+                <coordinates>37.433802,55.586242,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Olkhovaya]]></name>
+            <Point>
+                <coordinates>37.459332,55.568643,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kommunarka]]></name>
+            <Point>
+                <coordinates>37.46822,55.560396,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Khovrino]]></name>
+            <Point>
+                <coordinates>37.4822,55.8791,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Belomorskaya]]></name>
+            <Point>
+                <coordinates>37.4764,55.8658,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rechnoy Vokzal]]></name>
+            <Point>
+                <coordinates>37.4761,55.8549,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vodny Stadion]]></name>
+            <Point>
+                <coordinates>37.4867,55.8398,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Voykovskaya]]></name>
+            <Point>
+                <coordinates>37.498,55.819,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sokol]]></name>
+            <Point>
+                <coordinates>37.5153,55.8051,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Aeroport]]></name>
+            <Point>
+                <coordinates>37.5329,55.8003,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dinamo]]></name>
+            <Point>
+                <coordinates>37.558,55.7897,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Belorusskaya (Zamoskvoretskaya line)]]></name>
+            <Point>
+                <coordinates>37.5835,55.7767,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mayakovskaya]]></name>
+            <Point>
+                <coordinates>37.5958,55.7701,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tverskaya]]></name>
+            <Point>
+                <coordinates>37.6065,55.7647,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Teatralnaya]]></name>
+            <Point>
+                <coordinates>37.619,55.7578,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novokuznetskaya]]></name>
+            <Point>
+                <coordinates>37.6295,55.7415,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Paveletskaya (Zamoskvoretskaya line)]]></name>
+            <Point>
+                <coordinates>37.6377,55.7305,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Avtozavodskaya (Zamoskvoretskaya line)]]></name>
+            <Point>
+                <coordinates>37.6576,55.7074,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tekhnopark (Moscow Metro)]]></name>
+            <Point>
+                <coordinates>37.6641,55.695,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kolomenskaya (Moscow Metro)]]></name>
+            <Point>
+                <coordinates>37.6638,55.6785,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kashirskaya]]></name>
+            <Point>
+                <coordinates>37.6487,55.6551,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kantemirovskaya]]></name>
+            <Point>
+                <coordinates>37.6564,55.6358,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tsaritsyno]]></name>
+            <Point>
+                <coordinates>37.6694,55.6214,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Orekhovo]]></name>
+            <Point>
+                <coordinates>37.6949,55.6132,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Domodedovskaya]]></name>
+            <Point>
+                <coordinates>37.7186,55.6108,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krasnogvardeyskaya]]></name>
+            <Point>
+                <coordinates>37.7444,55.6137,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Alma-Atinskaya]]></name>
+            <Point>
+                <coordinates>37.766,55.6326,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pyatnitskoye Shosse]]></name>
+            <Point>
+                <coordinates>37.3544,55.8563,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mitino]]></name>
+            <Point>
+                <coordinates>37.3622,55.8457,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Volokolamskaya]]></name>
+            <Point>
+                <coordinates>37.3822,55.8354,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Myakinino]]></name>
+            <Point>
+                <coordinates>37.3852,55.8252,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Strogino]]></name>
+            <Point>
+                <coordinates>37.4031,55.8038,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krylatskoye]]></name>
+            <Point>
+                <coordinates>37.4081,55.7567,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Molodyozhnaya]]></name>
+            <Point>
+                <coordinates>37.4168,55.7408,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kuntsevskaya]]></name>
+            <Point>
+                <coordinates>37.4459,55.7307,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Slavyansky Bulvar]]></name>
+            <Point>
+                <coordinates>37.4706,55.7296,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Park Pobedy]]></name>
+            <Point>
+                <coordinates>37.5182,55.7362,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kiyevskaya (Arbatsko-Pokrovskaya line)]]></name>
+            <Point>
+                <coordinates>37.5645,55.7442,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Smolenskaya (Arbatsko-Pokrovskaya line)]]></name>
+            <Point>
+                <coordinates>37.5823,55.7474,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Arbatskaya (Arbatsko-Pokrovskaya line)]]></name>
+            <Point>
+                <coordinates>37.6061,55.7522,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ploshchad Revolyutsii]]></name>
+            <Point>
+                <coordinates>37.6216,55.7566,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kurskaya (Arbatsko-Pokrovskaya line)]]></name>
+            <Point>
+                <coordinates>37.6577,55.7576,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Baumanskaya]]></name>
+            <Point>
+                <coordinates>37.6806,55.773,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Elektrozavodskaya]]></name>
+            <Point>
+                <coordinates>37.7037,55.7817,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Semyonovskaya]]></name>
+            <Point>
+                <coordinates>37.7208,55.7833,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Partizanskaya]]></name>
+            <Point>
+                <coordinates>37.7506,55.7886,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Izmaylovskaya]]></name>
+            <Point>
+                <coordinates>37.7814,55.7878,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pervomayskaya]]></name>
+            <Point>
+                <coordinates>37.7993,55.7948,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shchyolkovskaya]]></name>
+            <Point>
+                <coordinates>37.7986,55.8094,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pionerskaya]]></name>
+            <Point>
+                <coordinates>37.4671,55.736,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Filyovsky Park]]></name>
+            <Point>
+                <coordinates>37.4833,55.7396,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bagrationovskaya]]></name>
+            <Point>
+                <coordinates>37.4977,55.7438,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fili]]></name>
+            <Point>
+                <coordinates>37.515,55.746,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kutuzovskaya]]></name>
+            <Point>
+                <coordinates>37.5344,55.7399,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Studencheskaya]]></name>
+            <Point>
+                <coordinates>37.5483,55.7388,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mezhdunarodnaya]]></name>
+            <Point>
+                <coordinates>37.5339,55.7483,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vystavochnaya]]></name>
+            <Point>
+                <coordinates>37.5408,55.7502,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kiyevskaya (Filyovskaya line)]]></name>
+            <Point>
+                <coordinates>37.5655,55.7436,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Smolenskaya (Filyovskaya line)]]></name>
+            <Point>
+                <coordinates>37.5825,55.7488,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Arbatskaya (Filyovskaya line)]]></name>
+            <Point>
+                <coordinates>37.6007,55.7518,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Aleksandrovsky Sad]]></name>
+            <Point>
+                <coordinates>37.6085,55.7525,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kiyevskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.5644,55.7446,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krasnopresnenskaya]]></name>
+            <Point>
+                <coordinates>37.5774,55.7613,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Belorusskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.5844,55.7764,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novoslobodskaya]]></name>
+            <Point>
+                <coordinates>37.6028,55.7799,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prospekt Mira (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.6318,55.7798,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Komsomolskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.6549,55.7748,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kurskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.6595,55.757,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Taganskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.6517,55.7418,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Paveletskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.6379,55.7318,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dobryninskaya]]></name>
+            <Point>
+                <coordinates>37.6243,55.7291,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Oktyabrskaya (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.6091,55.7297,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Park Kultury (Koltsevaya line)]]></name>
+            <Point>
+                <coordinates>37.5915,55.7357,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Medvedkovo]]></name>
+            <Point>
+                <coordinates>37.6613,55.8872,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Babushkinskaya]]></name>
+            <Point>
+                <coordinates>37.6644,55.8694,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sviblovo]]></name>
+            <Point>
+                <coordinates>37.6527,55.8552,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Botanichesky Sad]]></name>
+            <Point>
+                <coordinates>37.6383,55.8449,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[VDNKh]]></name>
+            <Point>
+                <coordinates>37.6411,55.8211,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Alekseyevskaya]]></name>
+            <Point>
+                <coordinates>37.639,55.8088,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rizhskaya]]></name>
+            <Point>
+                <coordinates>37.6362,55.7936,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prospekt Mira (Kaluzhsko-Rizhskaya line)]]></name>
+            <Point>
+                <coordinates>37.6318,55.7812,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sukharevskaya]]></name>
+            <Point>
+                <coordinates>37.6319,55.7733,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Turgenevskaya]]></name>
+            <Point>
+                <coordinates>37.6374,55.7661,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kitay-gorod]]></name>
+            <Point>
+                <coordinates>37.6333,55.7553,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tretyakovskaya]]></name>
+            <Point>
+                <coordinates>37.6274,55.7412,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Oktyabrskaya (Kaluzhsko-Rizhskaya line)]]></name>
+            <Point>
+                <coordinates>37.6112,55.7306,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shabolovskaya]]></name>
+            <Point>
+                <coordinates>37.6083,55.7198,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Leninsky Prospekt]]></name>
+            <Point>
+                <coordinates>37.5861,55.7077,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Akademicheskaya (Moscow Metro)]]></name>
+            <Point>
+                <coordinates>37.5733,55.6877,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Profsoyuznaya]]></name>
+            <Point>
+                <coordinates>37.5627,55.678,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novye Cheryomushki]]></name>
+            <Point>
+                <coordinates>37.5544,55.6702,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kaluzhskaya]]></name>
+            <Point>
+                <coordinates>37.5405,55.6571,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Belyayevo]]></name>
+            <Point>
+                <coordinates>37.5257,55.6428,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Konkovo]]></name>
+            <Point>
+                <coordinates>37.5188,55.6333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tyoply Stan]]></name>
+            <Point>
+                <coordinates>37.5082,55.6191,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yasenevo]]></name>
+            <Point>
+                <coordinates>37.5333,55.6063,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novoyasenevskaya]]></name>
+            <Point>
+                <coordinates>37.5541,55.601,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Planernaya]]></name>
+            <Point>
+                <coordinates>37.4364,55.8607,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Skhodnenskaya]]></name>
+            <Point>
+                <coordinates>37.4396,55.8505,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tushinskaya]]></name>
+            <Point>
+                <coordinates>37.4368,55.8267,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Spartak]]></name>
+            <Point>
+                <coordinates>37.4352,55.8182,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shchukinskaya]]></name>
+            <Point>
+                <coordinates>37.4641,55.8086,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Oktyabrskoye Pole]]></name>
+            <Point>
+                <coordinates>37.4935,55.7935,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Polezhayevskaya]]></name>
+            <Point>
+                <coordinates>37.5192,55.7775,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Begovaya]]></name>
+            <Point>
+                <coordinates>37.5468,55.7738,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa 1905 Goda]]></name>
+            <Point>
+                <coordinates>37.5613,55.765,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Barrikadnaya]]></name>
+            <Point>
+                <coordinates>37.5795,55.7612,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pushkinskaya]]></name>
+            <Point>
+                <coordinates>37.6079,55.765,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kuznetsky Most]]></name>
+            <Point>
+                <coordinates>37.6259,55.7606,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Taganskaya (Tagansko-Krasnopresnenskaya line)]]></name>
+            <Point>
+                <coordinates>37.6522,55.7402,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Proletarskaya]]></name>
+            <Point>
+                <coordinates>37.6659,55.7319,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Volgogradsky Prospekt]]></name>
+            <Point>
+                <coordinates>37.6869,55.7253,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tekstilshchiki]]></name>
+            <Point>
+                <coordinates>37.7316,55.7088,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kuzminki]]></name>
+            <Point>
+                <coordinates>37.7656,55.7056,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ryazansky Prospekt]]></name>
+            <Point>
+                <coordinates>37.7933,55.717,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vykhino]]></name>
+            <Point>
+                <coordinates>37.8181,55.7156,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lermontovsky Prospekt]]></name>
+            <Point>
+                <coordinates>37.8525,55.7013,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Zhulebino]]></name>
+            <Point>
+                <coordinates>37.8563,55.6855,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kotelniki]]></name>
+            <Point>
+                <coordinates>37.8582,55.6743,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rasskazovka]]></name>
+            <Point>
+                <coordinates>37.3347,55.6339,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novoperedelkino]]></name>
+            <Point>
+                <coordinates>37.3552,55.6396,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Borovskoye Shosse]]></name>
+            <Point>
+                <coordinates>37.3701,55.6476,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Solntsevo]]></name>
+            <Point>
+                <coordinates>37.3909,55.6493,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Govorovo]]></name>
+            <Point>
+                <coordinates>37.4172,55.6595,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ozyornaya]]></name>
+            <Point>
+                <coordinates>37.4491,55.6709,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Michurinsky Prospekt]]></name>
+            <Point>
+                <coordinates>37.4833,55.6896,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ramenki]]></name>
+            <Point>
+                <coordinates>37.4984,55.6975,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lomonosovsky Prospekt]]></name>
+            <Point>
+                <coordinates>37.5156,55.7069,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Minskaya]]></name>
+            <Point>
+                <coordinates>37.497,55.7246,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Delovoy Tsentr]]></name>
+            <Point>
+                <coordinates>37.5319,55.7475,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Marksistskaya]]></name>
+            <Point>
+                <coordinates>37.6543,55.7411,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ploshchad Ilyicha]]></name>
+            <Point>
+                <coordinates>37.6824,55.7472,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Aviamotornaya (Kalininsko-Solntsevskaya line)]]></name>
+            <Point>
+                <coordinates>37.7191,55.7524,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shosse Entuziastov]]></name>
+            <Point>
+                <coordinates>37.75,55.7576,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Perovo]]></name>
+            <Point>
+                <coordinates>37.7866,55.7511,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novogireyevo]]></name>
+            <Point>
+                <coordinates>37.8166,55.7517,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novokosino]]></name>
+            <Point>
+                <coordinates>37.8638,55.7451,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Altufyevo]]></name>
+            <Point>
+                <coordinates>37.587,55.898,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bibirevo]]></name>
+            <Point>
+                <coordinates>37.6034,55.8838,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Otradnoye]]></name>
+            <Point>
+                <coordinates>37.6047,55.8633,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vladykino (Moscow Central Circle)]]></name>
+            <Point>
+                <coordinates>37.5899,55.8473,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Petrovsko-Razumovskaya]]></name>
+            <Point>
+                <coordinates>37.5745,55.8351,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Timiryazevskaya]]></name>
+            <Point>
+                <coordinates>37.5765,55.8176,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dmitrovskaya]]></name>
+            <Point>
+                <coordinates>37.5817,55.8069,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Savyolovskaya]]></name>
+            <Point>
+                <coordinates>37.5885,55.7927,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mendeleyevskaya]]></name>
+            <Point>
+                <coordinates>37.6011,55.781,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tsvetnoy Bulvar]]></name>
+            <Point>
+                <coordinates>37.6187,55.7708,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chekhovskaya]]></name>
+            <Point>
+                <coordinates>37.6097,55.7644,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Borovitskaya]]></name>
+            <Point>
+                <coordinates>37.6072,55.7511,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Polyanka]]></name>
+            <Point>
+                <coordinates>37.618,55.7379,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Serpukhovskaya]]></name>
+            <Point>
+                <coordinates>37.6246,55.728,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tulskaya]]></name>
+            <Point>
+                <coordinates>37.6229,55.7087,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nagatinskaya]]></name>
+            <Point>
+                <coordinates>37.6224,55.683,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nagornaya]]></name>
+            <Point>
+                <coordinates>37.6104,55.6724,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nakhimovsky Prospekt]]></name>
+            <Point>
+                <coordinates>37.6055,55.6627,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sevastopolskaya]]></name>
+            <Point>
+                <coordinates>37.5984,55.6524,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chertanovskaya]]></name>
+            <Point>
+                <coordinates>37.6067,55.6405,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yuzhnaya]]></name>
+            <Point>
+                <coordinates>37.609,55.6224,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prazhskaya]]></name>
+            <Point>
+                <coordinates>37.6044,55.6124,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Akademika Yangelya]]></name>
+            <Point>
+                <coordinates>37.6004,55.5949,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Annino]]></name>
+            <Point>
+                <coordinates>37.5966,55.5828,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bulvar Dmitriya Donskogo]]></name>
+            <Point>
+                <coordinates>37.5769,55.5693,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Seligerskaya]]></name>
+            <Point>
+                <coordinates>37.548333,55.865,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Verkhnie Likhobory]]></name>
+            <Point>
+                <coordinates>37.561111,55.855833,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Okruzhnaya]]></name>
+            <Point>
+                <coordinates>37.57425,55.846,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fonvizinskaya]]></name>
+            <Point>
+                <coordinates>37.5881,55.8228,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Butyrskaya]]></name>
+            <Point>
+                <coordinates>37.6028,55.8133,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Maryina Roshcha (Lyublinsko–Dmitrovskaya line)]]></name>
+            <Point>
+                <coordinates>37.6162,55.7954,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dostoyevskaya]]></name>
+            <Point>
+                <coordinates>37.6151,55.7816,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Trubnaya]]></name>
+            <Point>
+                <coordinates>37.62,55.7688,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sretensky Bulvar]]></name>
+            <Point>
+                <coordinates>37.6392,55.7668,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Chkalovskaya]]></name>
+            <Point>
+                <coordinates>37.6573,55.7565,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rimskaya]]></name>
+            <Point>
+                <coordinates>37.6819,55.7463,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krestyanskaya Zastava]]></name>
+            <Point>
+                <coordinates>37.6673,55.7331,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dubrovka]]></name>
+            <Point>
+                <coordinates>37.676,55.7186,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kozhukhovskaya]]></name>
+            <Point>
+                <coordinates>37.6851,55.7074,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pechatniki (Lyublinsko–Dmitrovskaya line)]]></name>
+            <Point>
+                <coordinates>37.727,55.6934,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Volzhskaya]]></name>
+            <Point>
+                <coordinates>37.753,55.6909,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lyublino]]></name>
+            <Point>
+                <coordinates>37.7618,55.6758,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bratislavskaya]]></name>
+            <Point>
+                <coordinates>37.7505,55.6597,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Maryino]]></name>
+            <Point>
+                <coordinates>37.7431,55.65,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Borisovo]]></name>
+            <Point>
+                <coordinates>37.7436,55.6334,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shipilovskaya]]></name>
+            <Point>
+                <coordinates>37.7437,55.6211,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Zyablikovo]]></name>
+            <Point>
+                <coordinates>37.7453,55.6124,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mnyovniki]]></name>
+            <Point>
+                <coordinates>37.4708,55.7585,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Narodnoye Opolcheniye]]></name>
+            <Point>
+                <coordinates>37.4844,55.7738,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shelepikha]]></name>
+            <Point>
+                <coordinates>37.526,55.7567,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Khoroshyovskaya]]></name>
+            <Point>
+                <coordinates>37.5207,55.7768,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[CSKA[[Category:All articles with links needing disambiguation]][[Category:Articles with links needing disambiguation from April 2021]]<sup class="noprint Inline-Template " style="white-space:nowrap;">&#91;<i>[[Wikipedia:WikiProject Disambiguation/Fixing links|<span title="Link needs disambiguation&#32;(April 2021)">disambiguation needed</span>]]</i>&#93;</sup>]]></name>
+            <Point>
+                <coordinates>37.5333,55.7866,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Petrovsky park]]></name>
+            <Point>
+                <coordinates>37.5571,55.7918,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Savyolovskaya]]></name>
+            <Point>
+                <coordinates>37.588,55.7936,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bittsevsky Park]]></name>
+            <Point>
+                <coordinates>37.5562,55.6004,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lesoparkovaya]]></name>
+            <Point>
+                <coordinates>37.5769,55.5821,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Starokachalovskaya]]></name>
+            <Point>
+                <coordinates>37.5767,55.569,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Skobelevskaya]]></name>
+            <Point>
+                <coordinates>37.5546,55.5481,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bulvar Admirala Ushakova]]></name>
+            <Point>
+                <coordinates>37.543,55.5455,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Gorchakova]]></name>
+            <Point>
+                <coordinates>37.5308,55.5418,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Buninskaya Alleya]]></name>
+            <Point>
+                <coordinates>37.5158,55.538,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Timiryazevskaya]]></name>
+            <Point>
+                <coordinates>37.5789,55.819,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Milashenkova]]></name>
+            <Point>
+                <coordinates>37.5911,55.8218,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Teletsentr]]></name>
+            <Point>
+                <coordinates>37.6089,55.8218,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Akademika Korolyova]]></name>
+            <Point>
+                <coordinates>37.6269,55.8218,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vystavochny Tsentr]]></name>
+            <Point>
+                <coordinates>37.6383,55.824,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Sergeya Eisensteina]]></name>
+            <Point>
+                <coordinates>37.6449,55.8292,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Okruzhnaya]]></name>
+            <Point>
+                <coordinates>37.5694,55.8472,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vladykino]]></name>
+            <Point>
+                <coordinates>37.593,55.8476,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Botanichesky Sad]]></name>
+            <Point>
+                <coordinates>37.6413,55.846,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rostokino]]></name>
+            <Point>
+                <coordinates>37.6653,55.84,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Belokamennaya]]></name>
+            <Point>
+                <coordinates>37.7006,55.83,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bulvar Rokossovskogo (Moscow Central Circle)]]></name>
+            <Point>
+                <coordinates>37.7369,55.8172,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lokomotiv]]></name>
+            <Point>
+                <coordinates>37.746,55.8039,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Izmaylovo]]></name>
+            <Point>
+                <coordinates>37.7428,55.7886,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sokolinaya Gora]]></name>
+            <Point>
+                <coordinates>37.7451,55.7714,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shosse Entuziastov]]></name>
+            <Point>
+                <coordinates>37.7463,55.759,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Andronovka]]></name>
+            <Point>
+                <coordinates>37.7344,55.7411,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nizhegorodskaya]]></name>
+            <Point>
+                <coordinates>37.7282,55.7322,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Novokhokhlovskaya]]></name>
+            <Point>
+                <coordinates>37.7161,55.7239,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ugreshskaya]]></name>
+            <Point>
+                <coordinates>37.6978,55.7183,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Avtozavodskaya (Moscow Central Circle)]]></name>
+            <Point>
+                <coordinates>37.6631,55.7063,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[ZIL (Moscow Central Circle)]]></name>
+            <Point>
+                <coordinates>37.6483,55.6983,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Verkhnie Kotly]]></name>
+            <Point>
+                <coordinates>37.6189,55.69,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krymskaya]]></name>
+            <Point>
+                <coordinates>37.605,55.69,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ploshchad Gagarina]]></name>
+            <Point>
+                <coordinates>37.5858,55.7069,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Luzhniki]]></name>
+            <Point>
+                <coordinates>37.5631,55.7203,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kutuzovskaya]]></name>
+            <Point>
+                <coordinates>37.5333,55.7408,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Delovoy Tsentr]]></name>
+            <Point>
+                <coordinates>37.5322,55.7472,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shelepikha]]></name>
+            <Point>
+                <coordinates>37.5256,55.7575,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Khoroshyovo]]></name>
+            <Point>
+                <coordinates>37.5072,55.7772,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Zorge]]></name>
+            <Point>
+                <coordinates>37.5045,55.7878,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Panfilovskaya]]></name>
+            <Point>
+                <coordinates>37.4988,55.7991,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Streshnevo]]></name>
+            <Point>
+                <coordinates>37.4869,55.8136,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Baltiyskaya]]></name>
+            <Point>
+                <coordinates>37.4961,55.8258,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Koptevo]]></name>
+            <Point>
+                <coordinates>37.5203,55.8397,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Likhobory]]></name>
+            <Point>
+                <coordinates>37.5513,55.8472,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Elektrozavodskaya]]></name>
+            <Point>
+                <coordinates>37.703013,55.780292,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lefortovo]]></name>
+            <Point>
+                <coordinates>37.706747,55.764738,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Aviamotornaya]]></name>
+            <Point>
+                <coordinates>37.719149,55.75367,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nizhegorodskaya]]></name>
+            <Point>
+                <coordinates>37.730076,55.731748,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Stakhanovskaya]]></name>
+            <Point>
+                <coordinates>37.7619,55.725,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Okskaya]]></name>
+            <Point>
+                <coordinates>37.7817,55.7186,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yugo-Vostochnaya]]></name>
+            <Point>
+                <coordinates>37.81901,55.70497,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kosino]]></name>
+            <Point>
+                <coordinates>37.8511,55.7033,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ulitsa Dmitriyevskogo]]></name>
+            <Point>
+                <coordinates>37.8792,55.71,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lukhmanovskaya]]></name>
+            <Point>
+                <coordinates>37.9004,55.7085,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Nekrasovka]]></name>
+            <Point>
+                <coordinates>37.9264,55.7036,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Moscow_Metro_stations#List_of_active_stations">List of Moscow Metro stations</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
