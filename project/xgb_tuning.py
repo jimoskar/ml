@@ -4,8 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 import lightgbm as lgb
 import sklearn.model_selection as model_selection
-import contextily as cx
-import geopandas as gpd
 from scipy.stats import skew
 from scipy.stats.stats import pearsonr
 from scipy import stats
@@ -71,7 +69,6 @@ all_data['price'] = np.log1p(all_data['price'])
 skewed_feats = all_data[NUMERIC_FEATURES].apply(lambda x: skew(x.dropna())) #compute skewness
 skewed_feats = skewed_feats[skewed_feats > 0.75]
 skewed_feats = skewed_feats.index
-print(skewed_feats)
 
 all_data[skewed_feats] = np.log1p(all_data[skewed_feats])
 
