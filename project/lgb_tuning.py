@@ -48,12 +48,12 @@ def objective_lgb(trial, X, y, area, categorical):
         lgb_eval = lgb.Dataset(X_test, y_test,free_raw_data=False)
         model = lgb.train(params, 
                         lgb_train, valid_sets=lgb_eval, 
-                        verbose_eval=False, callbacks = [pruning_callback], early_stopping_rounds=100,
+                        verbose_eval=-100, callbacks = [pruning_callback], early_stopping_rounds=100,
                         categorical_feature=categorical)
     
         preds = np.exp(model.predict(X_test)) * area[test_idx]
         y_true = np.exp(y_test) * area[test_idx]
-        cv_scores[idx] = rmlse(y_test, preds)
+        cv_scores[idx] = rmlse(y_true, preds)
     
     return np.mean(cv_scores)
 
@@ -68,8 +68,6 @@ CATEGORICAL_FEATURES = ["seller", "district", "material", "condition", "heating"
 
 all_data[CATEGORICAL_FEATURES] = all_data[CATEGORICAL_FEATURES].astype('category')
 
-#log transform the target:
-all_data['price'] = np.log1p(all_data['price'])
 
 #log transform skewed numeric features:
 
