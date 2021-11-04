@@ -24,7 +24,7 @@ def objective_lgb(trial, X, y, area, categorical):
         'verbose': -1,
         'metric': 'rmse', 
         'random_state': 42,
-        'n_estimators': 10000,
+        'n_estimators': 2500,
         'reg_alpha': trial.suggest_loguniform('reg_alpha', 1e-3, 10.0),
         'reg_lambda': trial.suggest_loguniform('reg_lambda', 1e-3, 10.0),
         'colsample_bytree': trial.suggest_categorical('colsample_bytree', [0.3,0.4,0.5,0.6,0.7,0.8,0.9, 1.0]),
