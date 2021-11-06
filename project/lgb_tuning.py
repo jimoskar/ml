@@ -33,7 +33,8 @@ def objective_lgb(trial, X, y, area, categorical):
         'max_depth': trial.suggest_categorical('max_depth', [10,20,100]),
         'num_leaves' : trial.suggest_int('num_leaves', 1, 1000),
         'min_child_samples': trial.suggest_int('min_child_samples', 1, 300),
-        'cat_smooth' : trial.suggest_int('cat_smooth', 3, 60)
+        'cat_smooth' : trial.suggest_int('cat_smooth', 3, 60),
+        'nthread': 4
     }
     cv = KFold(n_splits=5, shuffle=True, random_state=42)
     pruning_callback = LightGBMPruningCallback(trial, "rmse")
